@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WordSearch</string>
+    <string name="words_found">/6 Words Found</string>
+</resources>
